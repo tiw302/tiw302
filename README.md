@@ -29,4 +29,7 @@
     I don't just use the computer; I understand how it works.
 
 ---------------------------------------------------------------------
+
+[ PROCESS COMPLETED (code 0) ]
+
 > _
