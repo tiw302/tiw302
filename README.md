@@ -1,4 +1,4 @@
-### usr@tiw:~$ ./profile_fetch.sh
+### tiw@tiwlinux:~$ ./profile_fetch.sh
 
 ```text
        .---.
@@ -32,4 +32,4 @@
 
 [ PROCESS COMPLETED (code 0) ]
 
-> _
+tiw@tiwlinux:~$ _
