@@ -1,16 +1,35 @@
-## Hi there 👋
+### tiw@tiwlinux:~$ ./profile_fetch.sh
 
-<!--
-**tiw302/tiw302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+       .---.
+      /     \      USER:    tiw
+      \.@-@./      AGE:     15
+      /`\_/`\      ROLE:    Student (Cybersecurity & Network)
+     //  _  \\     TRAIT:   ASD (Special Interest: Low-level Tech)
+    | \     )|_    MOTTO:   Keep it clean.
+   /`\_`>  <_/ \
+   \__/'---'\__/
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[+] SYSTEM_INFO
+    OS Distros  :: EndeavourOS, CachyOS (Daily), ParrotOS (Sec)
+    Environment :: i3wm (Tiling Window Manager)
+    Editor      :: Vim (The only way)
+
+[+] SKILL_SET
+    Languages   :: C, Python
+    Tools       :: Git, Neovim, Linux CLI
+    Focus       :: Network Analysis, System Ricing, Cyber Defense
+
+[+] ABOUT_ME
+    I am a 15-year-old student with ASD. My condition gives me
+    intense hyper-focus abilities, which I dedicate entirely to
+    Linux customization, coding in C, and studying Cybersecurity.
+    I don't just use the computer; I understand how it works.
+
+---------------------------------------------------------------------
+
+[ PROCESS COMPLETED (code 0) ]
+
+tiw@tiwlinux:~$ _
