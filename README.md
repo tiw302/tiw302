@@ -1,16 +1,42 @@
-## Hi there 👋
+### tiw@github:~$ ./fetch_profile.sh
 
-<!--
-**tiw302/tiw302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ```text 
+       /\_/\          user       :  tiw302
+      ( o.o )         age        :  15
+       > ^ <          role       :  student / cybersec & networking enthusiast
+      /     \         status     :  just entered the industry
+     |       |        motto      :  keep it simple, keep it working
+     `-------`        
 
-Here are some ideas to get you started:
+-------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ system_info ]
+   distros    :  cachyos (main), endeavouros, void, parrotos
+   wm         :  i3wm (main), sway, window maker
+   editors    :  vim, neovim (practicing)
+
+[ tech_stack ]
+   languages  :  c, c#, c++, python, go
+   focus      :  networking, cyber defense, system ricing
+
+[ homelab_logs ]
+   current    :  initializing first lab...
+   goal       :  setting up a network-wide adblocker
+   status     :  learning how to not break the router
+
+[ extra_notes ]
+   note       :  thanks for stopping by! i'm just a kid who loves
+                 building tiny projects for fun. still learning —
+                 feel free to correct me anytime. stay awesome.
+
+[ social_links ]
+   github     :  github.com/tiw302
+   instagram  :  @tiw3025k_
+   youtube    :  @tiw3025k
+   tiktok     :  @tiw3025k
+
+-------------------------------------------------------------
+
+[ process completed with exit code 0 ]
+
+tiw@github:~$ _
