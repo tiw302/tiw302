@@ -21,11 +21,11 @@
 
 [ active_projects ]
    ai-commit  :  AI-powered git commit generator (Go)
-              :  supports openai / anthropic / ollama & local llms
-              :  → github.com/tiw302/ai-commit
+                 supports openai / anthropic / ollama & local llms
+                 → github.com/tiw302/ai-commit
    mandelbrot :  interactive mandelbrot explorer (C + SDL2)
-              :  multithreaded cpu rendering, zoom & pan
-              :  → github.com/tiw302/mandelbrot-c
+                 multithreaded cpu rendering, zoom & pan
+                 → github.com/tiw302/mandelbrot-c
 
 [ homelab_logs ]
    current    :  initializing first lab...
