@@ -19,10 +19,18 @@
    languages  :  c, c#, c++, python, go
    focus      :  networking, cyber defense, system ricing
 
+[ active_projects ]
+   ai-commit  :  AI-powered git commit generator (Go)
+              :  supports openai / anthropic / ollama & local llms
+              :  → github.com/tiw302/ai-commit
+   mandelbrot :  interactive mandelbrot explorer (C + SDL2)
+              :  multithreaded cpu rendering, zoom & pan
+              :  → github.com/tiw302/mandelbrot-c
+
 [ homelab_logs ]
    current    :  initializing first lab...
    goal       :  setting up a network-wide adblocker
-   status     :  learning how to not break the router
+   status     :  saving up for Lenovo M720Q...
 
 [ extra_notes ]
    note       :  thanks for stopping by! i'm just a kid who loves
