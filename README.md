@@ -26,6 +26,9 @@
    mandelbrot :  interactive mandelbrot explorer (C + SDL2)
                  multithreaded cpu rendering, zoom & pan
                  → github.com/tiw302/mandelbrot-c
+   scrolly-wm :  high-performance linux auto-scroll utility (Rust)
+                 kernel-level middle-click scrolling via evdev/uinput
+                 → github.com/tiw302/scrolly-wm
 
 [ homelab_logs ]
    current    :  initializing first lab...
