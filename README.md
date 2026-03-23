@@ -16,7 +16,7 @@
    editors    :  vim, neovim (practicing)
 
 [ tech_stack ]
-   languages  :  c, c#, c++, python, go
+   languages  :  c, c#, c++, rust (practicing), go, python
    focus      :  networking, cyber defense, system ricing
 
 [ active_projects ]
