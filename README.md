@@ -29,6 +29,9 @@
    scrolly-wm :  high-performance linux auto-scroll utility (Rust)
                  kernel-level middle-click scrolling via evdev/uinput
                  → github.com/tiw302/scrolly-wm
+   litepaws   :  tiny desktop pet for linux (C++ + SDL2)
+                 ultra-low ram (~5-10mb), x11/wayland, multi-monitor
+                 → github.com/tiw302/litepaws
 
 [ homelab_logs ]
    current    :  initializing first lab...
