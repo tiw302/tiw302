@@ -1,7 +1,7 @@
 ### tiw@github:~$ ./fetch_profile.sh
 
  ```text 
-       /\_/\          user       :  tiw302
+       /\W/\          user       :  tiw302
       ( o.o )         age        :  15
        > ^ <          role       :  student / cybersec & networking enthusiast
       /     \         status     :  just entered the industry
