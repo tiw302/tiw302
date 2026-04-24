@@ -22,7 +22,7 @@
    focus      :  networking, cyber defense, system ricing
 
 [ active_projects ]
-mandelbrot    :  high-performance mandelbrot & julia explorer (C11)
+   mandelbrot :  high-performance mandelbrot & julia explorer (C11)
                  multithreaded cpu rendering (AVX2), zoom & pan
                  web support (WebAssembly/SIMD128)
                  gpu rendering (WebGL / sokol_gfx)
