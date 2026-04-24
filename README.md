@@ -20,12 +20,12 @@
    focus      :  networking, cyber defense, system ricing
 
 [ active_projects ]
-   ai-commit  :  AI-powered git commit generator (Go)
-                 supports openai / anthropic / ollama & local llms
-                 → github.com/tiw302/ai-commit
    mandelbrot :  interactive mandelbrot explorer (C + SDL2)
                  multithreaded cpu rendering, zoom & pan
                  → github.com/tiw302/mandelbrot-c
+   ai-commit  :  AI-powered git commit generator (Go)
+                 supports openai / anthropic / ollama & local llms
+                 → github.com/tiw302/ai-commit
    scrolly-wm :  high-performance linux auto-scroll utility (Rust)
                  kernel-level middle-click scrolling via evdev/uinput
                  → github.com/tiw302/scrolly-wm
