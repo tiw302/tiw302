@@ -13,7 +13,7 @@
 [ system_info ]
    distros    :  cachyos (main), void (alt), parrotos
    wm         :  i3wm (main), sway, dwm, window maker
-   editors    :  neovim (main), nvim, vscode, zen
+   editors    :  neovim (main), vim, vscode, zen
 
 [ tech_stack ]
    languages  :  c, c# (learning), c++ (practicing)
