@@ -11,17 +11,21 @@
 -------------------------------------------------------------
 
 [ system_info ]
-   distros    :  cachyos (main), endeavouros, void, parrotos
-   wm         :  i3wm (main), sway, window maker
-   editors    :  vim, neovim (practicing)
+   distros    :  cachyos (main), void (alt), parrotos
+   wm         :  i3wm (main), sway, dwm, window maker
+   editors    :  neovim (main), nvim, vscode, zen
 
 [ tech_stack ]
-   languages  :  c, c# (learning), c++ (practicing), rust (practicing), java (learning), go, python
+   languages  :  c, c# (learning), c++ (practicing)
+                 rust (practicing), java (learning), go, python
+                 html, css, javascript (basic)
    focus      :  networking, cyber defense, system ricing
 
 [ active_projects ]
-   mandelbrot :  interactive mandelbrot explorer (C + SDL2)
-                 multithreaded cpu rendering, zoom & pan
+mandelbrot    :  high-performance mandelbrot & julia explorer (C11)
+                 multithreaded cpu rendering (AVX2), zoom & pan
+                 web support (WebAssembly/SIMD128)
+                 gpu rendering (WebGL / sokol_gfx)
                  → github.com/tiw302/mandelbrot-c
    ai-commit  :  AI-powered git commit generator (Go)
                  supports openai / anthropic / ollama & local llms
@@ -35,7 +39,7 @@
 
 [ homelab_logs ]
    current    :  initializing first lab...
-   goal       :  setting up a network-wide adblocker
+   goal       :  setting up a network-wide adblocker, nas
    status     :  saving up for Lenovo M720Q...
 
 [ extra_notes ]
