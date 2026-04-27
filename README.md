@@ -12,7 +12,7 @@
 
 [ system_info ]
    distros    :  cachyos (main), void (alt), parrotos
-   wm         :  i3wm (main), sway, dwm, window maker
+   wm         :  i3wm (main), sway, river, dwm, window maker
    editors    :  neovim (main), vim, vscode, zen
 
 [ tech_stack ]
