@@ -1,6 +1,6 @@
 ### tiw@github:~$ ./fetch_profile.sh
 
- ```text 
+ ```yaml
        /\W/\          user       :  tiw302
       ( o.o )         age        :  15
        > ^ <          role       :  student / cybersec & networking enthusiast
