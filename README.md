@@ -28,6 +28,11 @@
                  gpu rendering (WebGL / sokol_gfx)
                  → github.com/tiw302/mandelbrot-c
 
+   simd-f128  :  high-performance 128-bit arithmetic for SIMD (C/C++)
+                 zero-allocation double-double precision library
+                 cross-platform (AVX2, NEON, WASM-SIMD128, SSE2)
+                 → github.com/tiw302/simd-f128
+
 [ homelab_logs ]
    current    :  initializing first lab...
    goal       :  setting up a network-wide adblocker, nas
