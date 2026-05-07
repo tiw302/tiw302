@@ -27,15 +27,6 @@
                  web support (WebAssembly/SIMD128)
                  gpu rendering (WebGL / sokol_gfx)
                  → github.com/tiw302/mandelbrot-c
-   ai-commit  :  AI-powered git commit generator (Go)
-                 supports openai / anthropic / ollama & local llms
-                 → github.com/tiw302/ai-commit
-   scrolly-wm :  high-performance linux auto-scroll utility (Rust)
-                 kernel-level middle-click scrolling via evdev/uinput
-                 → github.com/tiw302/scrolly-wm
-   litepaws   :  tiny desktop pet for linux (C++ + SDL2)
-                 ultra-low ram (~5-10mb), x11/wayland, multi-monitor
-                 → github.com/tiw302/litepaws
 
 [ homelab_logs ]
    current    :  initializing first lab...
