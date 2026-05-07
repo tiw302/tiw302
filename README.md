@@ -20,6 +20,7 @@
                  rust (practicing), java (learning), go, python
                  html, css, javascript (basic)
    focus      :  networking, cyber defense, system ricing
+   activity   :  coding ~22 hrs/week (mostly C and Rust)
 
 [ active_projects ]
    mandelbrot :  high-performance mandelbrot & julia explorer (C11)
@@ -32,6 +33,11 @@
                  zero-allocation double-double precision library
                  cross-platform (AVX2, NEON, WASM-SIMD128, SSE2)
                  → github.com/tiw302/simd-f128
+
+[ learning_queue ]
+   reading    :  Black Hat Python, The Linux Command Line
+   focusing   :  memory management in C, reverse engineering
+   next_up    :  setting up docker for the upcoming homelab
 
 [ homelab_logs ]
    current    :  initializing first lab...
