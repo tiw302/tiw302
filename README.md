@@ -1,6 +1,6 @@
 ### tiw@github:~$ ./fetch_profile.sh
 
- ```css
+ ```elm
 -------------------------------------------------------------
 
        /\W/\          user       :  tiw302
@@ -9,7 +9,6 @@
       /     \         status     :  just entered the industry
      |       |        motto      :  keep it simple, keep it working
      `-------`        
-
 -------------------------------------------------------------
 
 [ system_info ]
@@ -61,4 +60,4 @@
 
 [ process completed with exit code 0 ]
 
-tiw@github:~$ _
+tiw@github:~$ \(⁠≧⁠▽⁠≦⁠)/ _
