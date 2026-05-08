@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ESC=$'\033'
-C1="${ESC}[38;2;189;69;39m"
-C2="${ESC}[38;2;252;184;134m"
+C1="${ESC}[31m"
+C2="${ESC}[33m"
 RES="${ESC}[0m"
 
 cat <<EOF > README.md
@@ -72,5 +72,3 @@ ${C1}[ process completed with exit code 0 ]${RES}
 tiw@github:~\$ \\(⁠≧⁠▽⁠≦⁠)/ _
 \`\`\`
 EOF
-
-echo "[✓] Generated README.md successfully with Hex Colors!"
