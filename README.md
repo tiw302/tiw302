@@ -55,7 +55,7 @@
    github     :  github.com/tiw302
    instagram  :  @tiw3025k_
    youtube    :  @tiw3025k
-   tiktok     :  @tiw3025k
+   tiktok     :  @tiw3025k (main), @tiw3025k_ (alt)
 
 -----------------------------------------------------------------------------------
 
