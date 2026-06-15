@@ -30,17 +30,17 @@
    mandelbrot :  high-performance mandelbrot & julia explorer (C11)
                  multithreaded cpu rendering (AVX2), zoom & pan
                  web support (WebAssembly/SIMD128)
-                 gpu rendering (webgl / sokol_gfx)
+                 gpu rendering (webgl / sokol_gfx).
                  → github.com/tiw302/mandelbrot-c
 
    simd-f128  :  bring 128-bit precision to your simd applications
                  zero-allocation double-double arithmetic for c/c++
-                 supported across linux, macos, windows, and web
+                 supported across linux, macos, windows, and web.
                  → github.com/tiw302/simd-f128
 
-   cjsonx     :  high-performance c11 json parser with a 16-byte dlat-dom
-                 simd acceleration – and eisel-lemire parsing using 128-bit
-                 intermediate precision. 
+   cjsonx     :  blazing fast c11 json parser (1+ GB/s) featuring
+                 a 16-byte flat-dom, simd acceleration, eisel-lemire
+                 float engine, and zero-allocation mode.
                  → github.com/tiw302/cjsonx
 
 [ learning_queue ]
