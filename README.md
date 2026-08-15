@@ -60,7 +60,7 @@
 
 ==-------------------------------------------===-------------------------------------------==
 
- [ process completed with exit code 0 ] 
+[ process completed with exit code 0 ] 
  
 jirawat@cachyos-x8664
 ❯ _
