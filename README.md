@@ -1,4 +1,4 @@
-### ❯ chmod +x ./fetch_profile.sh && ./fetch_profile.sh
+### ❯ chmod +x fetch_profile.sh && ./fetch_profile.sh
 
 ```xml
 ==-------------------------------------------===-------------------------------------------==
